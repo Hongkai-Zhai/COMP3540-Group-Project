@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|e:\\anu\\y4s2\\comp3540\\unity pathway\\create with code\\anu2024 u7245487 v2\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\bulletbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\healthdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\prisonarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prisonarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\powerupdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerupdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\assets\\scripts\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A55AF84-CA7E-A035-C530-298D18C48965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Key.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Key.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\Key.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Key.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:21:18.391Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartButton.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\StartButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartButton.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\StartButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:09:51.739Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrisonArea.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\PrisonArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PrisonArea.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\PrisonArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PrisonArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:13:34.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PowerupDrop.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\PowerupDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerupDrop.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\PowerupDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerupDrop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:34:10.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthDrop.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\HealthDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthDrop.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\HealthDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthDrop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:21:13.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvzwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:46:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:43:52.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveForward.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:04:18.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletBehaviour.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\BulletBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletBehaviour.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\BulletBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:50:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:14:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\ANU\\Y4S2\\COMP3540\\Unity Pathway\\Create with Code\\ANU2024 u7245487 v2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:05:24.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
